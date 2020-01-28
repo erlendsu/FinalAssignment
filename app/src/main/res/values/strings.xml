@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TravelBook</string>
+    <string name="create_trip">Creating Trip</string>
+    <string name="warning_input_field_empty">You must fill in the input field!</string>
+    <string name="create_a_trip">Create a trip</string>
+    <string name="title_activity_add">Add Activity</string>
+    <string name="msg_empty_trip">The trip needs at least a destination!</string>
+    <string name="title">Title</string>
+    <string name="destination">Destination</string>
+    <string name="airline">Airline</string>
+    <string name="cost">Cost</string>
+    <string name="add_a_new_trip">Add a new trip</string>
+    <string name="trip">Trip</string>
+    <string name="add_description">Fill in the form to your liking. Tap the save icon when done.</string>
+    <string name="extra">Extra</string>
+    <string name="more">more</string>
+    <string name="complete_trip">Complete Trip</string>
+    <string name="edit_trip">Edit Trip</string>
+    <string name="delete_trip">Delete Trip</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done!</string>
+
+</resources>
